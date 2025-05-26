@@ -6,4 +6,5 @@ This app was developed in Android Studio using Kotlin. It is a flashcard-style q
 ![Screenshot (8)](https://github.com/user-attachments/assets/43f9e0cd-ee49-417c-a8d3-cb63b43831cd)
 ![Screenshot (9)](https://github.com/user-attachments/assets/7606d1b0-ceac-46f1-aff2-ddefa3d14526)
 ![Screenshot (10)](https://github.com/user-attachments/assets/894d429f-14e4-44b1-b05f-7a0b85466ae1)
-![Screenshot (11)](https://github.com/user-attachments/assets/aefb265c-4cfe-432e-81d5-b1289d2cc79c)
+![Screenshot (11)](https://github.com/user-attachments/assets/aefb265c-4cfe-432e-81d5-b1289d2cc79c) 
+https://youtu.be/MoHYvMuy0Mw
